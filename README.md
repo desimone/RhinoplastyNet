@@ -1,4 +1,4 @@
-<img  height="175" src="./img/logo.png" alt="logo" align="right" >
+<img  height="75" src="./img/logo.png" alt="logo" align="right" >
 
 # RhinoplastyNet
 

@@ -21,10 +21,10 @@ Our study demonstrates the potential of applied DL to perform and augment clinic
 
 ## Authors
 
-- Emily Borsting MD: Department of Plastic Surgery, University of California, Irvine, CA, USA.
-- Robert DeSimone BS
-- Mustafa Ascha MS: Cleveland Institute for Computational Biology, Department of Population and Quantitative Health Sciences, Case Western Reserve University School of Medicine, Cleveland, Ohio
-- Mona Ascha MD: Division of Plastic and Reconstructive Surgery, Department of Surgery, University Hospitals Cleveland Medical Center, Cleveland, OH.
+- [Emily Borsting](https://github.com/emilyborsting)
+- [Robert DeSimone](https://github.com/desimone)
+- [Mustafa Ascha](https://github.com/mustafaascha)
+- [Mona Ascha](https://github.com/mxa256)
 
 ## Screenshot
 

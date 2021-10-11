@@ -32,6 +32,8 @@ Our study demonstrates the potential of applied DL to perform and augment clinic
 
 ## Paper
 
+Borsting E, DeSimone R, Ascha M, Ascha M. Applied Deep Learning in Plastic Surgery: Classifying Rhinoplasty With a Mobile App. J Craniofac Surg. 2020 Jan/Feb;31(1):102-106. doi: 10.1097/SCS.0000000000005905. PMID: 31633665.
+
 https://pubmed.ncbi.nlm.nih.gov/31633665/
 
 ## License

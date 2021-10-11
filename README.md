@@ -32,7 +32,7 @@ Our study demonstrates the potential of applied DL to perform and augment clinic
 
 ## Paper
 
-Soon!
+https://pubmed.ncbi.nlm.nih.gov/31633665/
 
 ## License
 
